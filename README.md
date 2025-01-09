@@ -3,7 +3,7 @@
 🎓 Master's Student in Information Technology at **The University of North Carolina at Charlotte**  
 📍 Currently based in Charlotte, NC  
 💼 Former Implementation Engineer with expertise in Linux, SQL, and distributed systems.  
-🌟 Passionate about system diagnostics, cloud computing, and automation.  
+🌟 Passionate about networking, cloud computing, administration and automation.  
 
 ---
 
